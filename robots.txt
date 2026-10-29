@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tekashihibarii.github.io/hibar-landing-page/sitemap.xml
